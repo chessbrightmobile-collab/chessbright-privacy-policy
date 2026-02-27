@@ -2,42 +2,54 @@
 
 **Effective Date:** March 2026
 
-ChessBright (“the App”) is designed to function without collecting personal information. This Privacy Policy explains what data is collected, how it is used, and the choices available to users.
-
----
+ChessBright (“the App”) respects your privacy. This Privacy Policy explains what information may be collected and how it is used.
 
 ## Information We Collect
 
-The App does **not** require user accounts and does **not** collect personal information such as names, email addresses, payment details, or precise location data.
+**Google Sign-In (optional):**
 
-The App may automatically collect limited, non-personal information to support basic functionality and improve reliability, including:
+If you choose to sign in with Google, the App receives basic account information from Google, such as your Google account ID, email address, and profile name. This information is used only to authenticate your account and provide app functionality. The App does not access or store your Google password.
 
-- Anonymous device identifiers (for example, an app instance or device ID)
-- Basic usage data (such as which activities are used)
-- Crash and performance diagnostics (including error logs, device type, and operating system version)
+**Automatically Collected Information:**
 
-All such information is collected in an **aggregated** and **non-identifying** form.
+The App and its service providers may automatically collect limited technical information, including:
 
----
+- Device identifiers (such as app instance ID or advertising ID)
+- Device type, operating system, and app version
+- App usage data
+- Crash reports and diagnostic information
 
-## Information We Do Not Collect
+## Advertising
 
-The App does **not** collect or store:
+The App displays advertisements provided by third-party advertising partners, including Google AdMob. These partners may collect device identifiers, IP address, and usage data to provide and measure advertisements.
 
-- Names, email addresses, or contact information  
-- Account credentials or authentication data  
-- Payment or financial information  
-- User-generated content  
-- Precise location data  
-- Contacts or media from the device  
-- Data used for advertising or cross-app tracking  
-
----
+More information is available at:  
+https://policies.google.com/privacy
 
 ## How Information Is Used
 
-Any collected information is used **solely** to:
+- To authenticate users who choose to sign in
+- To provide and maintain app functionality
+- To display and measure advertisements
+- To monitor performance and reliability
+- To identify and fix technical issues
 
-- Ensure the App functions correctly  
-- Monitor performance and stability  
-- Identify and fix crashes or technical issues  
+## Third-Party Services
+
+The App uses third-party services that may collect information according to their own privacy policies, including:
+
+- Google Sign-In
+- Google AdMob
+- Google Play Services
+
+## Data Security
+
+Reasonable measures are used to protect information and ensure it is handled securely.
+
+## Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Updates will be posted on this page.
+
+## Contact
+
+If you have questions, contact: chessbrightmobile@gmail.com
